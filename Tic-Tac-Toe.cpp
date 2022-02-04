@@ -1,3 +1,10 @@
+/*
+Author: Youmeng Hin
+Program: Tic-Tac-Toe
+Version: 22.02.03
+Description: A basic 3x3 Tic-Tac-Toe console game created using C++.
+*/
+
 #include <iostream>
 
 using namespace std;
