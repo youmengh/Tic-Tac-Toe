@@ -12,4 +12,4 @@ A basic yet very competetive 3x3 Tic-Tac-Toe game that requires real time strate
 3. Enjoy!
 
 **Source Code:**
-- To view the source code, open: **`TicTacToe-CPP/Tic-TacToe.cpp`**
+- To view the source code, open: **`Tic-TacToe.cpp`**
