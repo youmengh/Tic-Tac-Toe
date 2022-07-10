@@ -1,4 +1,4 @@
-# TicTacToe-CPP
+# Tic-Tac-Toe
 
 A basic yet very competetive 3x3 Tic-Tac-Toe game that requires real time strategy.
 
